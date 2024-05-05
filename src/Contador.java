@@ -14,7 +14,7 @@ public class Contador {
             contar(parametroUm, parametroDois);
 
         } catch ( Exception RuntimeException) {
-            System.out.println("Você digitou um número fora da contagem " + parametroDois + " e " + parametroUm);
+            System.out.println("O primeiro numero é maior que o segundo numero.");
         }
     }
 
