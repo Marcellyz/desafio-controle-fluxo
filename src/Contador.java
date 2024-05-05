@@ -14,7 +14,7 @@ public class Contador {
             contar(parametroUm, parametroDois);
 
         } catch ( Exception RuntimeException) {
-            System.out.println("Você digitou um número fora da contagem " + parametroUm + " e " + parametroDois);
+            System.out.println("Você digitou um número fora da contagem " + parametroDois + " e " + parametroUm);
         }
     }
 
