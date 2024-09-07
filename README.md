@@ -1,7 +1,6 @@
 # Desafio Controle de Fluxo JAVA
 Este repositório é destinado ao estudo de Java Básico, onde desenvolvi um pequeno sistema de controle de fluxo.
 
-## Stack Utilizada
 ## 📍Stack utilizada
 
 <div>
